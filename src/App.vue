@@ -36,6 +36,7 @@ export default {
   mounted() {
     this.isDarkTheme = localStorage.getItem('theme') === 'dark';
     this.applyTheme();
+    document.title = "Yavuz Erbaş";
   },
   methods: {
     toggleTheme() {
