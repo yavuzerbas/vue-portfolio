@@ -13,7 +13,7 @@
         Additionally, I am intrigued by various other fields such as AI and IoT.<br>
         In my free time, I enjoy team sports, computer games, and board games, though finding time can be challenging :)
       </p>
-      <img src="@/assets/me.jpg" alt="Yavuz Erbaş">
+      <img src="@/assets/me232.jpg" alt="Yavuz Erbaş">
       <p>I earned a B.Sc. in Computer Engineering from the Middle East Technical University in 2023, where I had the opportunity to engage in numerous beneficial courses, including Machine Learning, Computer Graphics, Information and Network Security, Computer Organization, Data Structures, Algorithms, and Object-Oriented Programming Languages.</p>
       <img src="@/assets/meGrad.jpg" alt="Yavuz Erbaş graduation">
       <p>Feel free to explore my YouTube channel for the projects I've created and participated in. Below, you can view one such project, a social media application developed with Flutter, which was part of our graduation project.</p>

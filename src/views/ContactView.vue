@@ -30,6 +30,7 @@ export default {
 
 <style scoped>
 .container {
+  padding-top: 20px;
   display: flex;
   flex-direction: column;
   align-items: center; /* Centers content horizontally */
